@@ -1,3 +1,2 @@
-# webxr-test
-
-https://pleitezmisael.github.io/webxr-test/
+# webxr-js-hit-test
+Link: https://allinreality.github.io/webxrapi_tutorial/
